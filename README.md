@@ -1,5 +1,5 @@
 # DDAC MAERSKLINE Project
-This project is a university assignment for Maersk Line Container Management System to be deployed to Microsoft Azure CLoud Platform
+This project is an university assignment for Maersk Line Container Management System to be deployed to Microsoft Azure Cloud Platform
 
 ## Authors
 - Koh Shian
